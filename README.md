@@ -1,4 +1,4 @@
-# React/Redux Budget Tracker
+# React/Redux Budget Tracker.
 
 A bare bones react starter set of files
 
